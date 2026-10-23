@@ -59,9 +59,9 @@
       <div class="card" style="width: 18rem;">
   <img src="img/hotwheel1.jpeg" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <h5 class="card-title">Deora II</h5>
+    <p class="card-text">Hiperdeportivo morado con areodinamicas extremas</p>
+    <a href="#" class="btn btn-primary">10.99$</a>
   </div>
 </div>
     </div>
@@ -69,9 +69,9 @@
       <div class="card" style="width: 18rem;">
   <img src="img/hotwheel2.jpeg" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <h5 class="card-title">Vortex GT</h5>
+    <p class="card-text">Diseñado para romper records de velocidad, con un color blanco mate elegante</p>
+    <a href="#" class="btn btn-primary">9.99$</a>
   </div>
 </div>
     </div>
@@ -79,9 +79,9 @@
       <div class="card" style="width: 18rem;">
   <img src="img/hotwheel3.jpeg" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <h5 class="card-title">Overdrive</h5>
+    <p class="card-text">Bólido compacto diseñado exclusivamente para las pista de aceleración</p>
+    <a href="#" class="btn btn-primary">8.99$</a>
   </div>
 </div>
     </div>
@@ -91,9 +91,9 @@
       <div class="card" style="width: 18rem;">
   <img src="img/hotwheel4.jpeg" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <h5 class="card-title">Asphalt shreeder</h5>
+    <p class="card-text">Un cl{asico de carreras con una aerodinámica insuperable}.</p>
+    <a href="#" class="btn btn-primary">7.99$</a>
   </div>
 </div>
     </div>
@@ -101,9 +101,9 @@
       <div class="card" style="width: 18rem;">
   <img src="img/hotwheel5-jpg.jpeg" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <h5 class="card-title">Stret gt</h5>
+    <p class="card-text">Un clásico de los 80 sólido veloz y mejor que varios autos actuales</p>
+    <a href="#" class="btn btn-primary">15.99$</a>
   </div>
 </div>
     </div>
@@ -111,9 +111,9 @@
       <div class="card" style="width: 18rem;">
   <img src="img/hotwheel6.jpeg" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <h5 class="card-title">Viper Asphalt</h5>
+    <p class="card-text">Otro clásico de los 80 con un color verde víbora el más veloz para las curvas.</p>
+    <a href="#" class="btn btn-primary">12.99$</a>
   </div>
 </div>
     </div>
@@ -123,9 +123,9 @@
       <div class="card" style="width: 18rem;">
   <img src="img/hotwheel7.jpeg" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <h5 class="card-title">Nitro Mencae</h5>
+    <p class="card-text">Otro auto clásico, de los 90, con un diseño futurista de películas.</p>
+    <a href="#" class="btn btn-primary">9.99$</a>
   </div>
 </div>
     </div>
@@ -133,9 +133,9 @@
       <div class="card" style="width: 18rem;">
   <img src="img/hotwheel8.jpeg" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <h5 class="card-title">Green rober</h5>
+    <p class="card-text">Hecho para pistas fuertes, veloz e imparable</p>
+    <a href="#" class="btn btn-primary">8.99$</a>
   </div>
 </div>
     </div>
@@ -143,9 +143,9 @@
       <div class="card" style="width: 18rem;">
   <img src="img/hotwheel9.jpeg" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <h5 class="card-title">16.99$</h5>
+    <p class="card-text">White robber.</p>
+    <a href="#" class="btn btn-primary">Auto de los 70, veloz, descapotable, elegante</a>
   </div>
 </div>
     </div>
